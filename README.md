@@ -1,2 +1,2 @@
 # RAIDS
-Anomaly-Based Intrusion Detection System
+Real-time Anomaly-Based Intrusion Detection System
